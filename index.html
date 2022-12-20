@@ -32,8 +32,9 @@
                 <h1 class="section-title">Profile</h1>
                 <img src="./assets/img/avatar.jpg" alt="avatar" width="320" height="240">
             </section>
-            <section class="section" id="summary">
-                <h1 class="section-title">Summary</h1>
+            <section class="section" id="about me">
+                <h2 class="section-title">About me</h2>
+                <p>I am a prospective QA engineer with extensive background in law. I am a strong believer that constant curiosity and having a “Can Do!” attitude are the ones that help me to move forward and be a strong member of any team. Currently, I am open to opportunities and become a strong asset in your company. One of my goal is to enhance my skills in manual QA testing and in the future, I would like to do test automation.</p>
             </section>
             <section class="section" id="contacts">
                 <h2 class="section-title">Contacts</h2>
@@ -65,11 +66,23 @@
             </section>
             <section class="section" id="code">
                 <h2 class="section-title">Code</h2>
+                <pre><code Python>
+                    Python
+                    Slovar = set(input().lower() for i in range(int(input())))
+                    D = [input().lower().split() for j in range(int(input()))]
+                    result = set()
+                    for i in D:
+                        for j in i:
+                            if j not in Slovar:
+                                result.add(j)
+                    for elem in result:
+                        print(elem)
+                </code></pre>
             </section>
             <section class="section" id="courses">
                 <h2 class="section-title">Courses</h2>
                 <ul>
-                    <li>Python programming - <a href="https://stepik.org/cert/1794440/">Certificate</li>
+                    <li>Python programming - <a href="https://stepik.org/cert/1794440/">Certificate</a></li>
                     <li>Software Testing: Postman for API testing - <a href="https://stepik.org/cert/1827438/">Certificate</a></li>
                 </ul>
             </section>
@@ -84,6 +97,10 @@
             </section>
             <section class="section" id="languages">
                 <h2 class="section-title">Languages</h2>
+                <ul>
+                    <li>Russian - native;</li>
+                    <li>English - B1.</li>
+                </ul>
             </section>
         </div>
     </main>

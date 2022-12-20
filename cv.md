@@ -55,4 +55,4 @@ Academy of Public Administration under the Aegis of the President of the Republi
   
 ## Languages:
 + Russian - native;
-+ English - A2.
++ English - B1.
