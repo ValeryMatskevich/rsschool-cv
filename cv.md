@@ -8,7 +8,7 @@
 + Discord: Matskevich
 + GitHub: [Valery Matskevich](https://github.com/ValeryMatskevich/)
 
-## About me: 
+## About me:
 I am a prospective QA engineer with extensive background in law. I am a strong believer that constant curiosity and having a “Can Do!” attitude are the ones that help me to move forward and be a strong member of any team. Currently, I am open to opportunities and become a strong asset in your company. One of my goal is to enhance my skills in manual QA testing and in the future, I would like to do test automation.
 
 ## Skills:
@@ -27,10 +27,10 @@ I am a prospective QA engineer with extensive background in law. I am a strong b
 + Basic knowledge of Postman.
 
 ## Code Example:
-Task:  
-The simplest spell-checking system can be based on using a list of known words. If the entered word is not found in this list, it is marked as "error".  
-Let's try to write a similar system.  
-The number of words known to us is transmitted to the program in the form of the first line, after which these words are indicated on the lines. Then the number of l lines of text to check is passed, followed by l lines of text.  
+Task:
+The simplest spell-checking system can be based on using a list of known words. If the entered word is not found in this list, it is marked as "error".
+Let's try to write a similar system.
+The number of words known to us is transmitted to the program in the form of the first line, after which these words are indicated on the lines. Then the number of l lines of text to check is passed, followed by l lines of text.
 Output unique "errors" in any order. Do the work case-insensitive.
 ```Python
 Slovar = set(input().lower() for i in range(int(input())))
@@ -46,13 +46,13 @@ for elem in result:
 
 ## Education:
 ### University:
-Academy of Public Administration under the Aegis of the President of the Republic of Belarus, 09/2010 – 06/2015,  
-*Lawyer*  
+Academy of Public Administration under the Aegis of the President of the Republic of Belarus, 09/2010 – 06/2015,
+*Lawyer*
 ### Courses:
 + [Python programming;](https://stepik.org/cert/1794440/ "Certificate")
 + [Software Testing: Postman for API testing;](https://stepik.org/cert/1827438/ "Certificate")
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress).
-  
+
 ## Languages:
 + Russian - native;
 + English - B1.
